@@ -1,5 +1,7 @@
 # freemarker2arttemplate-transfer
 
+**NOT DONE YET**
+
 **trans freemarker to art-template.**
 
 ## usage
